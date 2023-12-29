@@ -1,0 +1,20 @@
+.
+  |-node_modules
+  |-public
+  |  |-icons
+  |  |-avatars
+  |-build
+  |  |-platforms
+  |  |-www
+  |-electron
+  |-.idea
+  |-src
+  |  |-css
+  |  |-js
+  |  |-shared
+  |  |-components
+  |  |-fonts
+  |  |-data
+  |  |-assets
+  |  |-pages
+  
